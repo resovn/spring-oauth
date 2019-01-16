@@ -1,11 +1,11 @@
 package com.hcy308.spring.security.oauth2.repository;
 
 import com.hcy308.spring.security.oauth2.model.Company;
-import com.adamzareba.spring.security.oauth2.model.Company_;
+import com.hcy308.spring.security.oauth2.model.Company_;
 import com.hcy308.spring.security.oauth2.model.Department;
-import com.adamzareba.spring.security.oauth2.model.Department_;
+import com.hcy308.spring.security.oauth2.model.Department_;
 import com.hcy308.spring.security.oauth2.model.Employee;
-import com.adamzareba.spring.security.oauth2.model.Employee_;
+import com.hcy308.spring.security.oauth2.model.Employee_;
 
 import org.springframework.dao.support.DataAccessUtils;
 import org.springframework.stereotype.Repository;
