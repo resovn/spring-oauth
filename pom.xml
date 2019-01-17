@@ -19,7 +19,7 @@
         <postgresql.version>42.2.5</postgresql.version>
 
         <hibernate.version>5.4.0.Final</hibernate.version>
-        <flywaydb.version>5.0.5</flywaydb.version>
+        <flywaydb.version>5.2.4</flywaydb.version>
         <jackson.version>2.9.5</jackson.version>
         <lombok.version>1.16.20</lombok.version>
         <spring-cloud.version>Finchley.SR2</spring-cloud.version>
